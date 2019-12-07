@@ -2,7 +2,8 @@
 
 import argparse
 
-parser = argparse.ArgumentParser()
+#parser = argparse.ArgumentParser()
+parser2 = argparse.ArgumentParser()
 
 parser.add_argument('topic', help='pleas set topic', type=str)
 
